@@ -1,0 +1,7 @@
+C:\Users\Bitute\Documents\C#\SOLUTION\PAMOKOS\Pamoka9\Pamoka9\Pamoka9\bin\Debug\Pamoka9.exe.config
+C:\Users\Bitute\Documents\C#\SOLUTION\PAMOKOS\Pamoka9\Pamoka9\Pamoka9\bin\Debug\Pamoka9.exe
+C:\Users\Bitute\Documents\C#\SOLUTION\PAMOKOS\Pamoka9\Pamoka9\Pamoka9\bin\Debug\Pamoka9.pdb
+C:\Users\Bitute\Documents\C#\SOLUTION\PAMOKOS\Pamoka9\Pamoka9\Pamoka9\obj\Debug\Pamoka9.csprojAssemblyReference.cache
+C:\Users\Bitute\Documents\C#\SOLUTION\PAMOKOS\Pamoka9\Pamoka9\Pamoka9\obj\Debug\Pamoka9.csproj.CoreCompileInputs.cache
+C:\Users\Bitute\Documents\C#\SOLUTION\PAMOKOS\Pamoka9\Pamoka9\Pamoka9\obj\Debug\Pamoka9.exe
+C:\Users\Bitute\Documents\C#\SOLUTION\PAMOKOS\Pamoka9\Pamoka9\Pamoka9\obj\Debug\Pamoka9.pdb
